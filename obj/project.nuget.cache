@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "RjG9rB3es8GMo4WGMKIHIGPj8u+egvv/9JeALZHUIb6oRT9B/dHIfXV9vvA9M3mx7v2q+UHYQ9bwAshNQQucZw==",
+  "success": true,
+  "projectFilePath": "/home/mrescorcia/Projects/Net/Tests/Tests.csproj",
+  "expectedPackageFiles": [
+    "/home/mrescorcia/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/home/mrescorcia/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/home/mrescorcia/.nuget/packages/microsoft.netcore.app.host.linux-x64/3.1.22/microsoft.netcore.app.host.linux-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
