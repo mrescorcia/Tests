@@ -4,9 +4,8 @@ using System.Text;
 
 namespace Tests
 {
-    public class Frutas
+    public class Frutas : Almacen
     {
-        /*
         public override void addProducto(Producto producto)
         {
             throw new NotImplementedException();
@@ -16,6 +15,5 @@ namespace Tests
         {
             throw new NotImplementedException();
         }
-        */
     }
 }
